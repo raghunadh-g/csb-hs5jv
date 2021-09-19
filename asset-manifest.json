@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://raghunadh-g.github.io/csb-hs5jv/static/css/main.78f3f953.chunk.css",
+    "main.js": "https://raghunadh-g.github.io/csb-hs5jv/static/js/main.8bab165c.chunk.js",
+    "main.js.map": "https://raghunadh-g.github.io/csb-hs5jv/static/js/main.8bab165c.chunk.js.map",
+    "runtime-main.js": "https://raghunadh-g.github.io/csb-hs5jv/static/js/runtime-main.6e6104ed.js",
+    "runtime-main.js.map": "https://raghunadh-g.github.io/csb-hs5jv/static/js/runtime-main.6e6104ed.js.map",
+    "static/js/2.c65b6eb5.chunk.js": "https://raghunadh-g.github.io/csb-hs5jv/static/js/2.c65b6eb5.chunk.js",
+    "static/js/2.c65b6eb5.chunk.js.map": "https://raghunadh-g.github.io/csb-hs5jv/static/js/2.c65b6eb5.chunk.js.map",
+    "index.html": "https://raghunadh-g.github.io/csb-hs5jv/index.html",
+    "static/css/main.78f3f953.chunk.css.map": "https://raghunadh-g.github.io/csb-hs5jv/static/css/main.78f3f953.chunk.css.map",
+    "static/js/2.c65b6eb5.chunk.js.LICENSE.txt": "https://raghunadh-g.github.io/csb-hs5jv/static/js/2.c65b6eb5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e6104ed.js",
+    "static/js/2.c65b6eb5.chunk.js",
+    "static/css/main.78f3f953.chunk.css",
+    "static/js/main.8bab165c.chunk.js"
+  ]
+}
